@@ -59,6 +59,7 @@ SPOTIFY_ARTIST_IMG_URL = "https://files.catbox.moe/eehxb4.jpg"
 SPOTIFY_ALBUM_IMG_URL = "https://files.catbox.moe/eehxb4.jpg"
 SPOTIFY_PLAYLIST_IMG_URL = "https://files.catbox.moe/eehxb4.jpg"
 
+
 BANNED_USERS = filters.user()
 adminlist = {}
 lyrical = {}
